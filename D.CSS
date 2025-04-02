@@ -1,0 +1,43 @@
+#hb{
+    background-image: url("imp1.webp");
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px solid black ;
+    margin: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.D1{
+    color: black;
+    border-radius: 10px solid black ;
+    margin: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.D2{
+    height: 50px;
+}
+.D3{
+    padding-left: 395px;
+    padding-right: 350px;
+    padding-top: 10px;
+   word-spacing: 15px;
+    
+}
+a:link{
+    color: rgb(255, 218, 9);
+        background-color: transparent;
+        text-decoration: none;
+}
+a:hover{
+        color: palevioletred;
+        background-color: transparent;
+        text-decoration: none;
+        
+}
